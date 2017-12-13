@@ -10,7 +10,7 @@
     "react-router-dom": "^4.2.2"
   },
   "devDependencies": {
-    "react-scripts": "1.0.11"
+    "react-scripts": "1.0.17"
   },
   "scripts": {
     "start": "react-scripts start",
